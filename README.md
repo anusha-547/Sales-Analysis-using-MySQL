@@ -1,13 +1,13 @@
-# Sales Analysis using MySQL.
-✅ Objective
+# ${\color{red}Sales\ Analysis\ using \MySQL}$.
+# ✅ Objective
 To perform insightful analysis on sales data to uncover trends, customer behaviors, and product performance using SQL queries.
 
-🛠 Tools Used
+# 🛠 Tools Used
 MySQL / SQL-compatible RDBMS
 
 SQL queries for data retrieval and aggregation
 
-🧩 Steps Included
+# 🧩 Steps Included
 Created and selected the sales database.
 
 Queried sales based on shipping mode, product categories, and countries.
@@ -18,7 +18,7 @@ Used aggregation functions to compute totals, averages, and counts.
 
 Applied ranking and sorting techniques for deeper insights.
 
-📈 Analysis Included
+# 📈 Analysis Included
 Orders filtered by shipping modes and total amount thresholds.
 
 Country-specific category analysis post a particular date.
@@ -31,7 +31,7 @@ Ranking of products based on total sales.
 
 Summary stats like total revenue, average cost, and order counts.
 
-🔍 Key Insights
+# 🔍 Key Insights
 Identified high-value 'Economy' shipped orders.
 
 Found top 5 most profitable transactions and cities.
@@ -42,5 +42,5 @@ Uncovered top-ranked products based on total sales.
 
 Calculated the number of unique regions involved in sales.
 
-🏁 Conclusion
+# 🏁 Conclusion
 This project demonstrates how structured queries in SQL can effectively derive actionable insights from raw sales data, aiding in business decision-making and strategic planning.
