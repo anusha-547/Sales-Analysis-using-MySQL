@@ -9,7 +9,7 @@
 
 - Relational Database Management System (e.g., MySQL, PostgreSQL)
 
-#📝 Steps Included
+📝 Steps Included
 - Database and Table Setup – (Assumed: COMPANY database with sales table).
 
 Querying Data using SQL:
